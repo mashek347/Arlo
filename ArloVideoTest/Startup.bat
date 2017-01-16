@@ -1,0 +1,1 @@
+start Arlo.bat /B

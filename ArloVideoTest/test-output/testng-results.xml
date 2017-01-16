@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="212135" started-at="2017-01-16T17:30:32Z" finished-at="2017-01-16T17:34:04Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="212135" started-at="2017-01-16T17:30:32Z" finished-at="2017-01-16T17:34:04Z">
+      <class name="net.XYX.SomeApp_BuildX.ArloCamera">
+        <test-method status="PASS" signature="arlo()[pri:0, instance:net.XYX.SomeApp_BuildX.ArloCamera@567d299b]" name="arlo" duration-ms="212122" started-at="2017-01-16T12:30:32Z" finished-at="2017-01-16T12:34:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arlo -->
+      </class> <!-- net.XYX.SomeApp_BuildX.ArloCamera -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
