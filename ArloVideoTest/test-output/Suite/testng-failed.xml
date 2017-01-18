@@ -3,11 +3,11 @@
 <suite name="Failed suite [Suite]">
   <test name="Test(failed)">
     <classes>
-      <class name="net.XYX.SomeApp_BuildX.ArloCamera">
+      <class name="com.arlo.ArloCamera">
         <methods>
           <include name="arlo"/>
         </methods>
-      </class> <!-- net.XYX.SomeApp_BuildX.ArloCamera -->
+      </class> <!-- com.arlo.ArloCamera -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

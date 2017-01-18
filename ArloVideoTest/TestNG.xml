@@ -2,7 +2,7 @@
 <suite name="Suite" parallel="false">
   <test name="Test">
     <classes>
-      <class name="net.XYX.SomeApp_BuildX.ArloCamera"/>
+      <class name="com.arlo.ArloCamera"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
